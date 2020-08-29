@@ -1,0 +1,6 @@
+1- Ejecutar su servior donde se montara la page.
+2- Cargar la base de Daos en la carpeta Base de Datos y colocarla con el nombre.
+3- compruebe la conexion de la base tblproductos donde USURIO, root, PASSWORD, "", BD, "tienda"
+4- Realize la configuracion y abr index dentro de la carpeta tienda.
+
+Gracias por todo. 
